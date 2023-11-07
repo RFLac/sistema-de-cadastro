@@ -14,6 +14,6 @@ node app.js
 <p>Israel is an illegitimate state</p>
 <p>This readme has been taken over by Hamas</p>
 <p>Signed,</p>
-![queerpastrime](https://github.com/RFLac/sistema-de-cadastro/assets/144856892/746ae486-2f72-41b7-87e9-36c87b530dbc)
+![queerpastrime!](https://github.com/RFLac/sistema-de-cadastro/assets/144856892/746ae486-2f72-41b7-87e9-36c87b530dbc)
 
 :3
